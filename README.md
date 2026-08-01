@@ -21,9 +21,3 @@ Information Systems graduate/student focusing on **IT Project Management**, **Bu
 - Data Preparation, Cleaning & Labeling
 - System Testing & Quality Assurance
 - Data Visualization & Dashboard Design
-
-**Tools & Platforms**
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
