@@ -9,7 +9,7 @@ Information Systems graduate/student focusing on **IT Project Management**, **Bu
 - 📋 **Focus Area:** IT Project Planning, Business Requirement Analysis, Data Visualization (Power BI), System Testing, and Data Operations.
 - 💡 **Core Expertise:** Bridging business needs with digital solutions, functional testing, organizing datasets (Data Annotation & Cleaning), and translating data into visual business insights without writing code.
 - 🎓 **Education:** Information Systems Student at Universitas Amikom Yogyakarta.
-- 📬 **Contact:** [Portofolio](https://rizaldiyanuar1.web.app/) | [LinkedIn](https://www.linkedin.com/in/rizaldiyanuar19) | [Email](mailto:rizaldiyanuar6@gmail.com)
+- 📬 **Contact:** [Portofolio](https://rizaldiyanuar-portfolio.vercel.app) | [LinkedIn](https://www.linkedin.com/in/rizaldiyanuar19) | [Email](mailto:rizaldiyanuar6@gmail.com)
 
 ---
 
